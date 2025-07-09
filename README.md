@@ -8,6 +8,7 @@ Questions with their key algorithms and data structures, approximately ordered b
 
 - [Find reachable](find_reachable): [iteration](https://en.wikipedia.org/wiki/Iteration)
 - [Score substring](score_substring): [maximum subarray](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
+- [Sum DAG](sum_dag): [directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 - [Merge intervals](merge_intervals): [heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
 - [Minimize integer](minimize_integer): [Fenwick tree](https://en.wikipedia.org/wiki/Fenwick_tree)
 - [Park cars](park_cars): [quickselect](https://en.wikipedia.org/wiki/Quickselect)
